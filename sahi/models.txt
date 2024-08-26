@@ -1,0 +1,13 @@
+# https://universe.roboflow.com/project-zijvj/haed-counting/model/1 -> 53
+# MODEL_ID = "haed-counting/1"
+
+# https://universe.roboflow.com/boris-basic-0qjxf/crowd-counting-8hvzc/model/1 -> 189
+# MODEL_ID = "crowd-counting-8hvzc/1"
+
+# https://universe.roboflow.com/test-pbwzt/head-mfmzb -> 180 people
+# MODEL_ID = "peoplecounter-xqtwr/1"
+
+# # https://universe.roboflow.com/coding-compass-nmjfb/overhead-head-detection-cwetj/model/1
+# MODEL_ID = "overhead-head-detection-cwetj/1"
+
+# https://universe.roboflow.com/project-zijvj/haed-counting/model/1 -> 185
